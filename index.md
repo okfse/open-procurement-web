@@ -1,32 +1,32 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/building2.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Öppen Upphandling
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: 'A platform prototype visualising procurement data '
+  heading: " OpenProcurement Platform "
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Capacity building of the data suppliers and users
+  heading: " School of Data"
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+- icon: "/uploads/2017/11/13/health.png"
+  heading: " Research "
+  description: Systematic assessment of the project and its outcomes
+sub_heading: Fostering Transparency and Accountability
+textline: To do
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
