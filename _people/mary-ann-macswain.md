@@ -1,22 +1,21 @@
 ---
-title: Mary-Ann MacSwain
-date: 2016-11-08 00:00:00 +0000
+title: " Alina Östling"
+date: '2016-11-08T00:00:00.000+00:00'
 description: ''
-email: maryanne@belkirkcollege.ca
+email: alinost@gmail.com
 linkedin: ''
 role:
 - staff
 - advisor
 slug: ''
-sub_heading: Research Chair
+sub_heading: Scientific Coordinator
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
 thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
-layout: 'person'
+layout: person
+
 ---
+Alina has a PhD in Political Sciences from the [European University Institute](http://www.eui.eu) and is presently the co-chair of the Open Knowledge Sweden. She has a long experience as researcher and expert providing support to academic, non-profit and international organisations (European Commission, OSCE/ODIHR, UNDP, UNICEF) in the areas of open government, open data, (digital) media and civic participation.
 
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
-
-Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+  
+In her previous, international, projects at the European University Institute, she has carried out data analyses (employing qualitative and quantitative research methods), drafting policy reports and briefs, and communicating results in various public events. At the Centre for Media Pluralism and Media freedom, she was involved in organising events and conducting training sessions, including a yearly Summer School for journalists. Moreover, in an interactive workshop together with media experts, Alina has developed an e-learning course for journalists. She has been working as researcher for the Open Government Partnership, evaluating Sweden’s progress on open data and digitisation between 2013-2019. She recently co-authored a report on open data and political integrity in Sweden, also focusing on procurement data.
