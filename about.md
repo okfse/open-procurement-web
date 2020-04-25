@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/building2.jpg"
+banner_image: "/uploads/2020/04/25/Banner.png"
 heading: About Öppen Upphandling
 sub_heading: Todo
 layout: landing-page
