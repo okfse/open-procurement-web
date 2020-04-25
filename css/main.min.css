@@ -581,7 +581,7 @@ a, h1, h2, h3, h4, li, p {
 }
 
 #banner {
-    background-position: 0 -200px;
+    background-position: center center;
     background-size: cover;
     height: 28em;
     text-align: center;
