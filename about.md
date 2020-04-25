@@ -1,23 +1,24 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2018/02/17/building2.jpg"
+heading: About Öppen Upphandling
 sub_heading: Ora et Labora
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: A multidisciplinary team of experts
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+The Open Procurement project aims to support public release and reuse of data. The project will develop a platform to make procurement easier, more transparent, and efficient. We will use the internationally tested School of Data-model to involve stakeholders (journalists, companies, civil servants) in the platform development and to coach them in harvesting and visualizing data.
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+1. A platform prototype visualizing procurement data
+2. The platform will be co-created in the School of Data, which will coach (a) at least ten public institutions in publishing and reusing their data, and ten journalists in data reuse and (b) deliver open resources to build wider capacity in Sweden.
+3. Recommendations on how to improve access to and reuse of public procurement data in Sweden based on an assessment of the data published on the platform and on feedback from stakeholders.
