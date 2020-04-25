@@ -11,7 +11,7 @@ slug: ''
 sub_heading: Scientific Coordinator
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
-thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
+thumbnail: ''
 layout: person
 
 ---
