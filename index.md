@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/04/25/Banner.psd"
+banner_image: "/uploads/2018/02/17/building2.jpg"
 layout: landing-page
 heading: Öppen Upphandling
 partners:
