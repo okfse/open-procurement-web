@@ -1,18 +1,17 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Sushma Giri
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
-email: murphy@belkirkcollege.com
-linkedin: ''
-layout: 'person'
+thumbnail: "/uploads/2020/04/25/Sushma.jpeg"
+sub_heading: Tech Lead
+email: suh.giri123@gmail.com
+linkedin: https://www.linkedin.com/in/sushma-giri/
+layout: person
+
 ---
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+Sushma is a civic tech expert from Nepal with a demonstrated history of working in numerous successful civic tech projects in the field of governance, open contracting, and digital innovation. She has been heavily involved in the conceptualization of ideas and technical foundations for Öppen Upphandling since the summer of 2019.
 
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Sushma is also an Open Data Institute, UK registered open data trainer [https://theodi.org/person/sushma-giri/](https://theodi.org/person/sushma-giri/ "https://theodi.org/person/sushma-giri/") and has designed and delivered 30+ open data, open mapping, and ICT training for a broad range of stakeholders. She sits on the board of [Open Heroines](https://openheroines.org/), a global community for those who identify as women in the field of civic tech and open data, where she is addressing pressing issues such as women’s inclusivity in those fields.
