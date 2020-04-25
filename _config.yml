@@ -1,7 +1,7 @@
 title: Öppen Upphandling
 short_title: Öppen Upphandling
 description: Öppen Upphandling WebPage
-baseurl: "open-procurement-web"
+baseurl: "/open-procurement-web"
 permalink: "/:path/"
 defaults:
   - scope:
