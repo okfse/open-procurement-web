@@ -18,7 +18,7 @@ services:
   heading: " Research "
   description: Systematic assessment of the project and its outcomes
 sub_heading: Fostering Transparency and Accountability
-textline: To do
+textline: Public control of public procurement
 hero_button:
   text: Learn more
   href: "/about"
