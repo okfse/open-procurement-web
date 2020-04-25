@@ -1,17 +1,15 @@
 ---
-title: Charlize Babatunde
-date: 2017-11-14 10:54:31 +0000
+title: Magnus Johansson
+date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
-sub_heading: Administration
+thumbnail: ''
+sub_heading: Strateg
 email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+Strateg inom digitala tjänster, arbetar primärt med e-handel och IT på DIGG, verksam både inom OpenPeppol & SFTI, systemägare gentemot SSC för DIGGs verksamhetssystem inom ekonomi och HR.
 
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
-
-Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Magnus har lång och bred erfarenhet inom IT-branschen både som anställd , konsult och entreprenör med uppdrag och kunder inom en mängd olika branscher, marknader och områden. Magnus har stor erfarenhet av att identiﬁera behov, utforma processer, utarbeta lösningsförslag och systemstöd för oﬀentlig verksamhet, logistik, produktion och tjänstesektor.
