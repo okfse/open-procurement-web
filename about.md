@@ -8,13 +8,6 @@ layout: landing-page
 textline: A multidisciplinary team of experts
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
-menu:
-  footer:
-    identifier: _about
-    weight: 3
-  navigation:
-    identifier: _about
-    weight: 2
 
 ---
 The Open Procurement project aims to support public release and reuse of data. The project will develop a platform to make procurement easier, more transparent, and efficient. We will use the internationally tested School of Data-model to involve stakeholders (journalists, companies, civil servants) in the platform development and to coach them in harvesting and visualizing data.
