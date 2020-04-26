@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Test
+  description: sfdfd
+  icon: ''
 - description: 'A platform prototype visualising procurement data '
   heading: " OpenProcurement Platform "
   icon: "/uploads/2017/11/13/health.png"
