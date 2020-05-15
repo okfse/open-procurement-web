@@ -8,10 +8,6 @@ banner_image: "/uploads/2020/05/15/fleetowner_39227_102419_procurement.png"
 related_posts: []
 
 ---
-![](/uploads/2020/05/15/digg_logo_text_color.png)
-
-![](/uploads/2020/05/15/open-knowledge-small-landscape-colour.png)
-
 A project to support release and reuse of public procurement data is being launched by [Open Knowledge Sweden](http://openknowledge.online/) and the Swedish Agency for Digital Government ([DIGG](https://www.digg.se/)), probably the first project in Sweden to trace and visualise public procurement patterns with the involvement of both data suppliers and data users.
 
 The Open Procurement project - funded through [VINNOVA](https://www.vinnova.se/en/calls-for-proposals/civic-tech/digital-services-for-2019-04507/)’s (Sweden’s innovation agency) first ever Civic Tech call - will develop an open source platform to make procurement easier, more transparent and efficient. It will contain a dashboard that visualises public procurement patterns and features that allow user-friendly analysis of the data, while the data will be published automatically (by API) on [Sweden’s open data portal](https://www.dataportal.se/). The platform will make it easy for public institutions to open up their procurement data and facilitate the reuse of data . "DIGG will be actively involved in the project by opening up its own procurement data (‘accounts payable’), by sharing knowledge about the procurement process in the public sector, and by hopefully becoming a driver for change for other public institutions", says Kristine Ulander, Digital Strategist at DIGG.
@@ -29,3 +25,9 @@ Toni Mickiewicz, co-chair of Open Knowledge Sweden: [tonimickiewicz@gmail.com](m
 Tel. +46 760 073 321
 
 Open Knowledge Sweden website: [http://openknowledge.online/](http://openknowledge.online/ "http://openknowledge.online/")
+
+![](/uploads/2020/05/15/vinnova_green_payoff_eng_rgb.png)
+
+![](/uploads/2020/05/15/landscape-rgb-936x244.png)
+
+![](/uploads/2020/05/15/digg_logo_text_color.png)
