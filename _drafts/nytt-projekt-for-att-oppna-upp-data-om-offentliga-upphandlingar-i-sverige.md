@@ -26,6 +26,6 @@ Tel. +46 760 073 321
 
 Open Knowledge Sweden website: [http://openknowledge.online/](http://openknowledge.online/ "http://openknowledge.online/")
 
-![](/uploads/2020/05/15/open-knowledge-small-landscape-colour.png)
+![](/uploads/2020/05/15/landscape-rgb-936x244.png)
 
 ![](/uploads/2020/05/15/digg_logo_text_color.png)
