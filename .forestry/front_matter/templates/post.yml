@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/new-project-to-open-up-public-procurement-in-sweden.md
