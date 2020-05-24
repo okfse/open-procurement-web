@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 sub_heading: Project Manager
-thumbnail: ''
+thumbnail: "/uploads/2020/05/24/20140901_114904.jpg"
 email: tonimickiewicz@gmail.com
 linkedin: ''
 layout: person
